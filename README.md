@@ -33,4 +33,4 @@ After completing this course I now am capable to-
 
 • communicate and interpret the results of the analyses
 
-NB: Each assignment has several tasks. However, the assignment questions are given as PDF format.
+### NB: Each assignment has several tasks. And, assignment 02 is done in several parts. However, the assignment questions are given as PDF format.
