@@ -1,4 +1,4 @@
-# Level03-Analytics with Python-II
+# Level 03: Analytics with Python-II
 
 These are the Assignments that I have done as Part of my Master's program. This is deeper level coursework forcusing on Supervised learning problems after the level II.
 
@@ -13,7 +13,7 @@ It is an advanced level course and Specific topics covered in this course are th
 • Recommendation systems
 • Text analytics
 
-This 05 ECTS worthy course consisting of total 02 assignments and hands on case studies with essential theory and solving different real world problems.
+This 05 ECTS worthy course consists of total 02 assignments and hands on case studies with essential theory and solving different real world problems.
 
 
 ### Learning outcomes
