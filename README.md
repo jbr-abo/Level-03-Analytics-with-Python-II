@@ -29,3 +29,5 @@ After completing this course I now am capable to-
 • carry out the analysis using the python programming environment
 
 • communicate and interpret the results of the analyses
+
+NB: Each assignment has several tasks. However, the assignment questions are given as PDF format.
