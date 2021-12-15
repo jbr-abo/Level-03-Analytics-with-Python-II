@@ -2,6 +2,9 @@
 
 These are the Assignments that I have done as Part of my Master's program. This is deeper level coursework forcusing on Supervised learning problems after the level II.
 
+
+### Topics
+
 It is an advanced level course and Specific topics covered in this course are the followings:
 
 • Introduction to Machine learning
